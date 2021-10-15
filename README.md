@@ -1,2 +1,5 @@
-# Bill_Reminder
-This app will remind you when its time to pay the bills!
+# Reminder App
+
+A common issue with most calendar apps is the inability to set recurring reminders on specific dates for common tasks; more often than not, these types of reminders will need to be manually set up which tends to be time-consuming and tedious which, this app solves just that!
+
+The app will use Twilio as a way to send messages to your phone and will be able to set specific dates for reminders.
