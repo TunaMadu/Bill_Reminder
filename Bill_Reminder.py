@@ -1,7 +1,7 @@
 from datetime import date
 from twilio.rest import Client
 
-# Replace the valeus inside ""  with your twilio phone number
+# Replace the values inside ""  with your twilio phone number
 twilio_number = "xxxxxxxxxxxxxxxx"
 
 # Replace the values inside the "" with your phone number 
