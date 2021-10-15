@@ -1,9 +1,16 @@
 from datetime import date
 from twilio.rest import Client
+
+# Replace the valeus inside ""  with your twilio phone number
 twilio_number = "xxxxxxxxxxxxxxxx"
+
+# Replace the values inside the "" with your phone number 
 my_number = "xxxxxxxxxxx"
 
+# Repalace the values inside the "" with twilio's account sid 
 account_sid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# Replace the values inside the "" with twilio's auth token
 auth_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 client = Client(account_sid, auth_token)
